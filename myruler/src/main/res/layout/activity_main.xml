@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <com.jikexueyuan.myruler.CM
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:text="0cm"
+        android:textSize="5pt"
+        android:background="#ff0000"
+        android:textColor="#ffffffff"
+        />
+
+    <com.jikexueyuan.myruler.CM
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:text="1cm"
+        android:textSize="5pt"
+        android:background="#ff9900"
+        android:textColor="#ffffffff"
+        />
+
+    <com.jikexueyuan.myruler.CM
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:text="2cm"
+        android:textSize="5pt"
+        android:background="#cccc00"
+        android:textColor="#ffffffff"
+        />
+    <com.jikexueyuan.myruler.CM
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:text="3cm"
+        android:textSize="5pt"
+        android:background="#00ff00"
+        android:textColor="#ffffffff"
+        />
+    <com.jikexueyuan.myruler.CM
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:text="4cm"
+        android:textSize="5pt"
+        android:background="#00cccc"
+        android:textColor="#ffffffff"
+        />
+    <com.jikexueyuan.myruler.CM
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:text="5cm"
+        android:textSize="5pt"
+        android:background="#00ccff"
+
+        android:textColor="#ffffffff"
+        />
+    <com.jikexueyuan.myruler.CM
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:text="6cm"
+        android:textSize="5pt"
+        android:background="#003cff"
+
+        android:textColor="#ffffffff"
+        />
+
+    <com.jikexueyuan.myruler.CM
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:text="7cm"
+        android:textSize="5pt"
+        android:background="#00cc00"
+
+        android:textColor="#ffffffff"
+        />
+    <com.jikexueyuan.myruler.CM
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:text="8cm"
+        android:textSize="5pt"
+        android:background="#6dcc00"
+        android:textColor="#ffffffff"
+        />
+    <com.jikexueyuan.myruler.CM
+        android:layout_width="10mm"
+        android:layout_height="10mm"
+        android:text="9cm"
+        android:textSize="5pt"
+        android:background="#c5cc00"
+        android:textColor="#ffffffff" />
+       <!-- android:layout_gravity="center_vertical"-->
+
+
+
+
+</LinearLayout>
